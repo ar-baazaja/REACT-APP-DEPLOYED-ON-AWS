@@ -26,16 +26,16 @@ All components are integrated into a seamless serverless app using **7 AWS Servi
 ## 📸 Screenshots
 
 ### Cognito User Pool Setup
-![Cognito Screenshot](./capture.png)
+![Cognito Screenshot](./Capture.png)
 
 ### Amplify Deployment
-![Amplify Screenshot](./capture2.png)
+![Amplify Screenshot](./Capture2.png)
 
 ### API Gateway Configuration
-![API Gateway Screenshot](./capture3.png)
+![API Gateway Screenshot](./Capture3.png)
 
 ### Lambda Function
-![Lambda Function Screenshot](./capture4.png)
+![Lambda Function Screenshot](./Capture4.png)
 
 ---
 
